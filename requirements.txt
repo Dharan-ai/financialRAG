@@ -1,0 +1,23 @@
+# Core Dependencies
+flask==3.0.0
+flask-cors==4.0.0
+gunicorn==21.2.0
+
+# LangChain and LangGraph
+langgraph==0.2.28
+langchain==0.3.1
+langchain-anthropic==0.3.0
+langchain-community==0.3.1
+
+# Vector Store and Embeddings
+faiss-cpu==1.9.0
+sentence-transformers==3.2.1
+
+# Data Processing
+pandas==2.2.0
+openpyxl==3.1.2
+xlrd==2.0.1
+
+# Utilities
+python-dotenv==1.0.0
+Werkzeug==3.0.1
